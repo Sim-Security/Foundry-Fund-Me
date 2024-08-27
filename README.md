@@ -36,8 +36,8 @@
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-fund-me-cu
-cd foundry-fund-me-cu
+git clone https://github.com/Sim-Security/Foundry-Fund-Me.git
+cd Foundry-Fund-Me
 make
 ```
 
